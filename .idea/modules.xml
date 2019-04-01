@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/0327/Flask_aaa/.idea/Flask_aaa.iml" filepath="E:/0327/Flask_aaa/.idea/Flask_aaa.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/MyFlask/.idea/MyFlask.iml" filepath="$USER_HOME$/Desktop/MyFlask/.idea/MyFlask.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/days29/.idea/days29.iml" filepath="$USER_HOME$/Desktop/days29/.idea/days29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flaskProjectDemo.iml" filepath="$PROJECT_DIR$/.idea/flaskProjectDemo.iml" />
+      <module fileurl="file://E:/flaskProject_Demo/.idea/flaskProject_Demo.iml" filepath="E:/flaskProject_Demo/.idea/flaskProject_Demo.iml" />
+      <module fileurl="file://E:/python瑞/.idea/python瑞.iml" filepath="E:/python瑞/.idea/python瑞.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/qcgl_flask/.idea/qcgl_flask.iml" filepath="$USER_HOME$/Desktop/qcgl_flask/.idea/qcgl_flask.iml" />
+    </modules>
+  </component>
+</project>

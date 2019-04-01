@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="flaskProject_Demo" />
+    <orderEntry type="module" module-name="Flask_aaa" />
+    <orderEntry type="module" module-name="MyFlask" />
+    <orderEntry type="module" module-name="qcgl_flask" />
+    <orderEntry type="module" module-name="days29" />
+    <orderEntry type="module" module-name="qcgl_flask" />
+    <orderEntry type="module" module-name="python瑞" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

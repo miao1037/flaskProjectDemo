@@ -1,0 +1,19 @@
+.main_container{
+	width: 1000px;
+	height: 1000px;
+	margin: 0 auto;
+	overflow: hidden;
+	background-color: aquamarine;
+}
+.lg_container{
+	width: 740px;
+	height: 1000px;
+	float: left;
+	background-color: antiquewhite;
+}
+.sm_container{
+	width: 250px;
+	height: 1000px;
+	float: right;
+	background-color: cornsilk;
+}

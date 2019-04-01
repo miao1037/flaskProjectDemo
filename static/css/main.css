@@ -1,0 +1,18 @@
+img{
+	width: 500px;
+	height: 500px;
+}
+h1{
+	color: azure;
+	font-size: 18px;
+}
+ul>li{
+	color: brown;
+	font-size: 15px;
+}
+.main_container{
+	width: 1000px;
+	margin: 0 auto;
+	overflow: hidden;
+	
+}
